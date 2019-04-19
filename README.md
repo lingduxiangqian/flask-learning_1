@@ -1,10 +1,10 @@
 # flask-learning_1
 Flask Web自学项目-大型应用的结构
 
-project/
-    app/                    # 整个程序的包目录
-        static/                 # 静态资源文件
-            js/                     # JS脚本
+project/＜/br＞
+    app/                    # 整个程序的包目录＜/br＞
+        static/                 # 静态资源文件＜/br＞
+            js/                     # JS脚本＜/br＞
             css/                    # 样式表
             img/                    # 图片
             favicon.ico              # 网站图标
@@ -20,7 +20,7 @@ project/
         config.py               # 配置文件
         email.py                # 邮件发送
         extensions.py           # 各种扩展
-    migrations/             # 数据库迁移目录
+    migrations/             # 数据库迁移目录   
     tests/                  # 测试单元
     venv/                   # 虚拟环境
     requirements.txt        # 依赖包的列表
