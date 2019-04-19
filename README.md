@@ -1,8 +1,8 @@
 # flask-learning_1
-Flask Web自学项目-大型应用的结构  
-  
-  
+Flask Web自学项目-大型应用的结构 
+结构:  
 project/  
+
     app/                    # 整个程序的包目录  
         static/                 # 静态资源文件夹  
             js/                     # JS脚本
