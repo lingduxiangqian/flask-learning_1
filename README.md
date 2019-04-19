@@ -3,8 +3,8 @@ Flask Web自学项目-大型应用的结构
 
 project/   
     app/                    # 整个程序的包目录  
-        static/                 # 静态资源文件＜/br＞
-            js/                     # JS脚本＜/br＞
+        static/                 # 静态资源文件夹  
+            js/                     # JS脚本
             css/                    # 样式表
             img/                    # 图片
             favicon.ico              # 网站图标
